@@ -1,1 +1,11 @@
-1111
+线颜色  #C4C4C4
+
+白框	#FFFFFF
+
+个人空间新增功能：1、主页多了一个最近访客
+                  2、设置页面多了一个“推荐应用”点击进入后就是一列APP图标，要可上传APP图标，名称，简介
+
+http://share.sharesdk.cn/ 
+
+svn://bobo@220.166.64.76:56804/repos/jiuqiunew
+用户名：bobo 密码：bobo123
